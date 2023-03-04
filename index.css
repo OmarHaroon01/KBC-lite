@@ -1,0 +1,11 @@
+.primary-color{
+    background-color: #7a438f96;
+}
+
+ul {
+    list-style: none;
+}
+
+li:hover {
+    opacity: 50%;
+}
