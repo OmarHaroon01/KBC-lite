@@ -55,3 +55,14 @@
     transition: all 0.5s;
   }
   
+  .gradient {
+    background: linear-gradient(to right, #0d0d0c 70%, transparent 120%);
+  }
+
+  .card-style {
+    border: 3px solid black;
+    background-image: url("Assets/backdrop.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: right center;
+  }
